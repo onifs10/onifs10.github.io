@@ -1,14 +1,4 @@
-/* font-family: 'Open Sans', sans-serif;
-font-family: 'Playfair Display', serif; */
 
-/*style {*/
-/*    color: #11371B*/
-/*        #F09733*/
-/*        #6D5911*/
-/*        #FFFFFF*/
-/*        #131212;*/
-/*}*/
-/* stylelint-disable selector-list-comma-newline-after */
 @import url(https://allfont.net/allfont.css?fonts=playfair-display-italic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans&display=swap);
 @import url(https://allfont.net/allfont.css?fonts=playfair-display);
@@ -56,7 +46,7 @@ body{
 }
 
 .blog-header-logo {
-    font-family: "Playfair Display Italic", Georgia, "Times New Roman", serif;
+    font-family: "Playfair Display Italic" !important;
     font-style: italic;
     font-weight: bold;
     font-size: 64px;
