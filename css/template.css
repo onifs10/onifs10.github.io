@@ -2,9 +2,6 @@
 @import url(https://allfont.net/allfont.css?fonts=playfair-display-italic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans&display=swap);
 @import url(https://allfont.net/allfont.css?fonts=playfair-display);
-body{
-    font-family: Playfair Display ;!important;
-}
 .item-1{
     z-index:1;
 }
